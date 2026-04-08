@@ -124,3 +124,9 @@ That's it. Once your coding agent is running, you communicate in plain English.
 | **TRAE IDE**                  | <https://docs.trae.ai/>                                                                                                  |
 | **TTS Providers**             | [Rime](https://rime.ai/) / [ElevenLabs](https://elevenlabs.io/) / [Cartesia](https://cartesia.ai/)                       |
 
+| Couch Base Examples | Link                                                               |
+| :------------------ | :----------------------------------------------------------------- |
+| Java                | <https://github.com/couchbase-examples/java-springboot-quickstart> |
+| Python              | <https://github.com/couchbase-guides/python-sdk>                   |
+| Go Lang             | <https://github.com/couchbase-examples/golang-quickstart>          |
+
