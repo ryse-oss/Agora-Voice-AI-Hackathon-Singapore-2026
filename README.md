@@ -21,9 +21,9 @@ Building Real-Time Voice AI Systems used to feel complex. Now you can prototype 
 
 - 9:00 AM to 9:15 AM — Registration and Check-in, badge distribution, team confirmations, seating.
 - 9:15 AM to 9:30 AM — Opening Ceremony, welcome remarks, event overview, partner introductions.
-- 9:30 AM to 9:55 AM — Create Your Own Talking Avatar with Vibe Coding (Agora × TRAE × Akool)
-- 9:55 AM to 10:15 AM — Introducing TRAE and What's New
-- 10:15 AM to 12:00 PM — Hackathon Begins, Build Phase 1 🧑‍💻🚀, teams start building with the required tech stack.
+- 9:30 AM to 9:50 AM — Introducing TRAE and What's New
+- 9:50 AM to 10:10 AM — Introducing Couchbase
+- 10:10 AM to 12:00 PM — Hackathon Begins, Build Phase 1 🧑‍💻🚀, teams start building with the required tech stack.
 - 12:00 PM to 12:30 PM — Working Lunch Break 🍽️, Lunch will be distributed.
 - 12:30 PM to 3:30 PM — Build Phase 2, Deep Work 🔧💡, continue building and technical support.
 - 3:30 PM to 4:15 PM — Build Phase 3, Final Sprint ⏱️🔥, polish solutions, prep submissions and demos.
@@ -108,7 +108,7 @@ Follow the steps below to **fork, develop, and submit** your project.
 
 Navigate to Bottom Left and Look for button **Submit Project**.
 
-![Submit Project](./images/Submission.png)
+!\[Submit Project]\(./images/Submission.png null)
 
 ### **Suggested Project Structure**
 
